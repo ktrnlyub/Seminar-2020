@@ -1,1 +1,1 @@
-http://data.gov.ru/opendata/7703771271-vidysporta/data-20150710T1125-structure-20150710T1125.csv 
+https://docs.google.com/spreadsheets/d/1orw23mh5ilW-Qt9euu31YlS76GnOax4p/edit?rtpof=true
