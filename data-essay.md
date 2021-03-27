@@ -9,7 +9,7 @@
 **3. Источники данных.** 
 
 Информация - это итоговый результат изучения данных. Данные представляют собой зафиксированные сведения о каком-то событии или явлении. 
-Данные в источнике: https://docs.google.com/spreadsheets/d/1orw23mh5ilW-Q.. 
+Данные в источнике: http://data.gov.ru/opendata/7703771271-vidysporta/data-20150710T1125-structure-20150710T1125.csv 
 Данные на Hub of Data: https://hubofdata.ru/dataset/opensports/resource/386a.. 
 
 **4. Ограничения:**
