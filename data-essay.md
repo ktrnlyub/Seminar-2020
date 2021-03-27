@@ -10,7 +10,8 @@
 
 Информация - это итоговый результат изучения данных. Данные представляют собой зафиксированные сведения о каком-то событии или явлении. 
 Данные в источнике: http://data.gov.ru/opendata/7703771271-vidysporta/data-20150710T1125-structure-20150710T1125.csv 
-Данные на Hub of Data: https://hubofdata.ru/dataset/opensports/resource/386a.. 
+Данные на Hub of Data: https://hubofdata.ru/dataset/opensports/resource/386a458f-70ea-431b-8af4-8b6eb36946e3
+
 
 **4. Ограничения:**
 
